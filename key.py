@@ -1,4 +1,4 @@
-token = '6402637106:AAFpHpqJZGlOP3JFi_MGXcG81cfkHPcW_H0'
+token = abc
 
 keys = {'евро': 'EUR',
         'доллар': 'USD',
